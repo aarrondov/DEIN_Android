@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Light &amp; Dark</string>
+    <string name="edit_action">Editar</string>
+    <string name="delete_action">Borrar</string>
+    <string name="share_action">Compartir</string>
+    <string name="create_pdf_action">Crear PDF</string>
+    <string name="print_action">Imprimir</string>
+    <string name="send_action">Enviar</string>
+    <string name="mark_as_paid_action">Marcar como pagado</string>
+    <string name="search_action">Buscar</string>
+    <string name="Mostrar_consumo">Mostrar consumo</string>
+    <string name="desplazamiento">Desplazamiento</string>
+    <string name="velocidad">Velocidad</string>
+    <string name="aceleración">Aceleración</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+</resources>
